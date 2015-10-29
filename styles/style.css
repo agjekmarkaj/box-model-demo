@@ -1,13 +1,9 @@
-img { 
-	width: 15rem;
-
-}
-a {
-	text-decoration: none;
-}
-nav a {
-	text-decoration: line-through;
-}
-
-p { color: magenta; } 
-p { color: yellow; } 
+body {
+      background-color:aqua;
+    }
+    h1 {
+      color: magenta;
+    }
+    p { color: gray; }
+    aside p {color: black; }
+    footer a { color: red; }
